@@ -1,6 +1,11 @@
 # FrontEndMentor - QR code component
 
-<h3>Desafio feito na plataforma <a href="https://www.frontendmentor.io/">FrontEndMentor</a>, com um intuito de desafiar suas habilidades em HTML e CSS </h3>
+<h3>Desafio feito na plataforma <a href="https://www.frontendmentor.io/">FrontEndMentor</a>, com um intuito de desafiar suas habilidades.</h3>
+<h4>Tecnologias utilizadas</h4>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+</ul>
 
 <a href="https://serene-banach-dd7d5b.netlify.app/">Link do Site</a>
  </br>
